@@ -1,0 +1,23 @@
+{
+  "name": "Kai",
+  "languagePreference": "English, Chinese",
+  "preferredDifficultyLevel": "Intermediate",
+  "SubTaskTimeLengthPreference": "Short",
+  "preferredLearningStyle": "...",
+  "interests": [ "..." ],
+  "goals": [ "..." ],
+  "engagementFrequency": "Daily",
+  "timeOfDayPreference": "Evening",
+  "devicePreference": "Laptop",
+  "accessibilityNeeds": {
+    "textToSpeech": true,
+  },
+  "progressTracking": {
+    "currentLevel": 5,
+    "rewardPoints": 1200,
+    "achievements": [
+      "..."
+    ]
+  },
+  "feedbackPreference": "..."
+}

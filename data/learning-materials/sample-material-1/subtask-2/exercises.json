@@ -1,0 +1,76 @@
+{
+  "id": "exercise-quest2-ta-history",
+  "sectionId": "quest2_historical_journey_ta",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following disciplines did NOT employ an early form of thematic analysis as described in the text?",
+      "options": [
+        "Musicology (analyzing musical scores)",
+        "Sociology (analyzing mass propaganda)",
+        "Psychoanalysis (analyzing projective test results)",
+        "Astronomy (analyzing celestial patterns)"
+      ],
+      "correctAnswerIndex": 3,
+      "relatedBlockIds": [
+        "2-thematic-analysis-a-brief-hi-paragraph-1"
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "True or False: The development of thematic analysis was entirely independent and did not evolve from quantitative content analysis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswerIndex": 1,
+      "relatedBlockIds": [
+        "2-thematic-analysis-a-brief-hi-paragraph-1"
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Fill in the blank: In the 1980s and 1990s, thematic analysis emerged as a specific approach for analyzing ______ data in fields such as health and the social sciences.",
+      "options": [
+        "qualitative",
+        "quantitative",
+        "statistical",
+        "experimental"
+      ],
+      "correctAnswerIndex": 0,
+      "relatedBlockIds": [
+        "2-thematic-analysis-a-brief-hi-paragraph-2"
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "Which of the following statements best reflects the evolution of thematic analysis as described in the text?",
+      "options": [
+        "TA has always been a clearly demarcated method with uniform procedures.",
+        "TA was originally used by a single discipline and later adopted broadly.",
+        "TA evolved from content analysis, sharing common roots while diverging in methodology and conceptual details.",
+        "TA has remained methodologically isolated from other forms of analysis."
+      ],
+      "correctAnswerIndex": 2,
+      "relatedBlockIds": [
+        "2-thematic-analysis-a-brief-hi-paragraph-1",
+        "2-thematic-analysis-a-brief-hi-paragraph-2"
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Which claim accurately captures the methodological challenge associated with different approaches to thematic analysis as outlined in the text?",
+      "options": [
+        "Researchers consistently follow one uniform procedure across all studies of TA.",
+        "Divergent procedures and underlying philosophies across approaches like 'coding reliability,' 'codebook,' and 'reflexive TA' can lead to conceptual and methodological conflation.",
+        "The existence of multiple approaches indicates mere superficial variations with no real impact on the interpretation of data.",
+        "Ignoring philosophical differences in TA ensures methodological unity."
+      ],
+      "correctAnswerIndex": 1,
+      "relatedBlockIds": [
+        "2-thematic-analysis-a-brief-hi-paragraph-2"
+      ]
+    }
+  ],
+  "hasBackgroundImage": false
+}

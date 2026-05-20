@@ -1,0 +1,79 @@
+{
+  "id": "exercise-set-quest1-thematic-analysis",
+  "sectionId": "Quest 1: Foundations – Introduction to Thematic Analysis",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which of the following best captures the concept of Thematic Analysis as presented in this section?",
+      "options": [
+        "A method for capturing patterns (themes) across qualitative datasets, understood as an umbrella term for multiple analytic approaches.",
+        "A rigid and singular qualitative approach with only one prescribed method for identifying themes.",
+        "A quantitative technique designed solely for statistical evaluation of text data.",
+        "A process that emphasizes numerical data collection over qualitative insights."
+      ],
+      "correctAnswerIndex": 0,
+      "relatedBlockIds": [
+        "heading-1-thematic-analysis",
+        "abstract-paragraph-1",
+        "1-introduction-paragraph-1"
+      ]
+    },
+    {
+      "id": "q2",
+      "question": "Which statement correctly distinguishes the different schools of Thematic Analysis discussed in the text?",
+      "options": [
+        "They are characterized by distinctive conceptualizations of themes, differing coding methods, and varying underlying philosophies.",
+        "They all use exactly the same coding methods regardless of context.",
+        "They focus solely on the frequency of words without considering deeper meanings.",
+        "They exclude any form of reflective or practical guidance in their application."
+      ],
+      "correctAnswerIndex": 0,
+      "relatedBlockIds": [
+        "abstract-paragraph-1",
+        "1-introduction-paragraph-1"
+      ]
+    },
+    {
+      "id": "q3",
+      "question": "Under the umbrella of Thematic Analysis, the three broad approaches identified in the text are: _______.",
+      "options": [
+        "Coding reliability, codebook, and reflexive approaches.",
+        "Statistical modeling, experimental design, and inferential analysis.",
+        "Participant observation, qualitative interviewing, and focus groups.",
+        "Content analysis, discourse analysis, and narrative inquiry."
+      ],
+      "correctAnswerIndex": 0,
+      "relatedBlockIds": [
+        "abstract-paragraph-1"
+      ]
+    },
+    {
+      "id": "q4",
+      "question": "True or False: The introduction in this section presents Thematic Analysis as a single qualitative analytic approach.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correctAnswerIndex": 1,
+      "relatedBlockIds": [
+        "1-introduction-paragraph-1"
+      ]
+    },
+    {
+      "id": "q5",
+      "question": "Which of the following claims accurately reflects a practical aspect of Thematic Analysis guidance provided in the section?",
+      "options": [
+        "The section offers practical guidance on applying a six-phase reflexive approach to Thematic Analysis.",
+        "The section provides only abstract definitions without any practical step-by-step guidance.",
+        "The section emphasizes strictly statistical methods without addressing qualitative analysis.",
+        "The section suggests that quality assessment is not essential in the application of Thematic Analysis."
+      ],
+      "correctAnswerIndex": 0,
+      "relatedBlockIds": [
+        "abstract-paragraph-1",
+        "1-introduction-paragraph-1"
+      ]
+    }
+  ],
+  "hasBackgroundImage": false
+}

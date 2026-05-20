@@ -1,0 +1,34 @@
+{
+  "id": "subtask-1-keywords",
+  "sectionId": "subtask-1",
+  "keywords": [
+    {
+      "word": "Cargo",
+      "blockId": "setting-up-a-new-project-paragraph-1"
+    },
+    {
+      "word": "Cargo.toml",
+      "blockId": "setting-up-a-new-project-paragraph-3"
+    },
+    {
+      "word": "Hello, world!",
+      "blockId": "setting-up-a-new-project-paragraph-5"
+    },
+    {
+      "word": "src/main.rs",
+      "blockId": "setting-up-a-new-project-paragraph-6"
+    },
+    {
+      "word": "cargo new",
+      "blockId": "setting-up-a-new-project-paragraph-2"
+    },
+    {
+      "word": "cargo run",
+      "blockId": "setting-up-a-new-project-paragraph-7"
+    },
+    {
+      "word": "projects directory",
+      "blockId": "setting-up-a-new-project-paragraph-1"
+    }
+  ]
+}

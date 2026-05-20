@@ -1,0 +1,152 @@
+@import "tailwindcss";
+@import "./highlight.css";
+
+/* Custom scrollbar styles for the gamified interface */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(51, 65, 85, 0.1);
+  border-radius: 2px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: linear-gradient(to bottom, rgba(139, 92, 246, 0.8), rgba(99, 102, 241, 0.8));
+  border-radius: 2px;
+  transition: all 0.3s ease;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(to bottom, rgb(139, 92, 246), rgb(99, 102, 241));
+  width: 6px;
+}
+
+/* Hide scrollbar for the main page to ensure screen-size webapp */
+.no-scrollbar {
+  overflow: hidden;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Line clamp utility */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Custom animations for gamified avatar */
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 8s linear infinite;
+}
+
+/* Animation delays for particles */
+.animation-delay-300 {
+  animation-delay: 300ms;
+}
+
+.animation-delay-500 {
+  animation-delay: 500ms;
+}
+
+.animation-delay-700 {
+  animation-delay: 700ms;
+}
+
+.animation-delay-900 {
+  animation-delay: 900ms;
+}
+
+.animation-delay-1100 {
+  animation-delay: 1100ms;
+}
+
+/* Subtle pulse animation for text */
+@keyframes pulse-subtle {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.9;
+  }
+}
+
+.animate-pulse-subtle {
+  animation: pulse-subtle 3s ease-in-out infinite;
+}
+
+/* Custom border width utilities */
+.border-3 {
+  border-width: 3px;
+}
+
+/* Fade-in animation for messages */
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-out forwards;
+}
+
+/* Custom text selection styling */
+::selection {
+  background-color: rgb(221, 214, 254); /* purple-200 */
+  color: rgb(17, 24, 39); /* gray-900 for better contrast */
+}
+
+::-moz-selection {
+  background-color: rgb(221, 214, 254); /* purple-200 */
+  color: rgb(17, 24, 39); /* gray-900 for better contrast */
+}
+
+/* Enhanced keyword highlight styles */
+.keyword-highlight {
+  position: relative;
+  transition: all 0.2s ease;
+  animation: subtle-glow 2s ease-in-out infinite alternate;
+}
+
+.keyword-highlight:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(139, 92, 246, 0.3);
+  background-color: rgb(221, 214, 254) !important;
+}
+
+.keyword-highlight:active {
+  transform: translateY(0);
+}
+
+@keyframes subtle-glow {
+  from {
+    box-shadow: 0 0 2px rgba(139, 92, 246, 0.2);
+  }
+  to {
+    box-shadow: 0 0 4px rgba(139, 92, 246, 0.4);
+  }
+}

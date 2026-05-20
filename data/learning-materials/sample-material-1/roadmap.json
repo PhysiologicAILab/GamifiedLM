@@ -1,0 +1,131 @@
+{
+  "title": "Thematic Analysis Quest: A Gamified Learning Journey",
+  "description": "Embark on a step-by-step quest through the world of thematic analysis. Starting with foundational concepts and historical roots, you will progressively master the art of coding, theme construction, and design considerations, culminating in an in‐depth exploration of reflexive thematic analysis and practical case studies. Each quest builds on the previous one, guiding you from introduction to advanced synthesis of qualitative research methods.",
+  "totalSubtasks": 7,
+  "subtasks": [
+    {
+      "id": "subtask-1",
+      "title": "Quest 1: Foundations – Introduction to Thematic Analysis",
+      "description": "Begin your journey by exploring the basic concepts and key terminology in thematic analysis. This quest introduces the method, its umbrella nature, and provides an overview of important keywords and introductory context set by renowned authors.",
+      "estimatedTime": 7,
+      "blockIds": [
+        "heading-1-thematic-analysis",
+        "heading-3-virginia-braun-victoria-clarke",
+        "heading-2-abstract",
+        "abstract-paragraph-1",
+        "heading-3-keywords",
+        "abstract-keywords-paragraph-1",
+        "heading-2-1-introduction",
+        "1-introduction-paragraph-1"
+      ]
+    },
+    {
+      "id": "subtask-2",
+      "title": "Quest 2: A Historical Journey – Tracing the Origins of TA",
+      "description": "Dive into the historical evolution of thematic analysis. Learn about its early conceptualizations across disciplines and discover how TA evolved from content analysis into a distinct qualitative method.",
+      "estimatedTime": 6,
+      "blockIds": [
+        "heading-2-2-thematic-analysis-a-brief-hi",
+        "2-thematic-analysis-a-brief-hi-paragraph-1",
+        "2-thematic-analysis-a-brief-hi-paragraph-2"
+      ]
+    },
+    {
+      "id": "subtask-3",
+      "title": "Quest 3: Decoding Themes – Understanding and Differentiating Themes",
+      "description": "Explore what a theme really is. This quest guides you through contrasting conceptualizations of themes—from simple domain summaries to deeper, shared meaning patterns—setting the stage for sophisticated analysis.",
+      "estimatedTime": 8,
+      "blockIds": [
+        "heading-2-3-mapping-the-terrain-of-thema",
+        "3-mapping-the-terrain-of-thema-paragraph-1",
+        "3-mapping-the-terrain-of-thema-paragraph-2",
+        "3-mapping-the-terrain-of-thema-paragraph-3",
+        "3-mapping-the-terrain-of-thema-paragraph-4",
+        "3-mapping-the-terrain-of-thema-paragraph-5"
+      ]
+    },
+    {
+      "id": "subtask-4",
+      "title": "Quest 4: Navigating TA Schools – From Coding Reliability to Reflexive TA",
+      "description": "Advance your knowledge by comparing different schools of thematic analysis. Understand the nuances between coding reliability, structured codebook methods, and fully reflexive approaches that embrace researcher subjectivity.",
+      "estimatedTime": 10,
+      "blockIds": [
+        "heading-2-4-mapping-the-terrain-of-thema",
+        "4-mapping-the-terrain-of-thema-paragraph-1",
+        "4-mapping-the-terrain-of-thema-paragraph-2",
+        "4-mapping-the-terrain-of-thema-paragraph-3",
+        "4-mapping-the-terrain-of-thema-paragraph-4",
+        "4-mapping-the-terrain-of-thema-paragraph-5",
+        "4-mapping-the-terrain-of-thema-paragraph-6",
+        "4-mapping-the-terrain-of-thema-paragraph-7",
+        "4-mapping-the-terrain-of-thema-paragraph-8",
+        "4-mapping-the-terrain-of-thema-paragraph-9"
+      ]
+    },
+    {
+      "id": "subtask-5",
+      "title": "Quest 5: Blueprint for Success – Design Considerations and Sample Size",
+      "description": "Learn the practical design challenges of conducting thematic analysis. Explore how theoretical frameworks, sample size debates, and pragmatic concerns shape the planning and execution of a qualitative study.",
+      "estimatedTime": 7,
+      "blockIds": [
+        "heading-2-5-some-design-considerations-f",
+        "5-some-design-considerations-f-paragraph-1",
+        "5-some-design-considerations-f-paragraph-2",
+        "5-some-design-considerations-f-paragraph-3",
+        "5-some-design-considerations-f-paragraph-4",
+        "5-some-design-considerations-f-paragraph-5",
+        "5-some-design-considerations-f-paragraph-6",
+        "5-some-design-considerations-f-paragraph-7"
+      ]
+    },
+    {
+      "id": "subtask-6",
+      "title": "Quest 6: The TA Expedition – Six Phases and a Case Study in Action",
+      "description": "Embark on a hands-on expedition through the six phases of reflexive thematic analysis using a real-world case study. Study a detailed example of the men’s embodiment research project, from initial familiarization and coding to constructing themes and producing the final report.",
+      "estimatedTime": 18,
+      "blockIds": [
+        "heading-2-6-six-phases-of-reflexive-them",
+        "6-six-phases-of-reflexive-them-paragraph-1",
+        "heading-3-box-1-the-mens-embodiment-in-r",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-1",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-2",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-3",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-4",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-5",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-6",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-7",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-table-1",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-8",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-9",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-10",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-11",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-12",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-13",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-14",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-15",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-image-1",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-16",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-17",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-18",
+        "6-six-phases-of-reflexive-them-box-1-the-mens-embodiment-in-r-paragraph-19"
+      ]
+    },
+    {
+      "id": "subtask-7",
+      "title": "Quest 7: The Final Synthesis – Conclusion and Future Directions",
+      "description": "Conclude your quest by synthesizing what you have learned. Reflect on the challenges and best practices of thematic analysis while exploring future directions and critical discussions that inform the quality of qualitative research.",
+      "estimatedTime": 8,
+      "blockIds": [
+        "heading-2-7-conclusion-and-future-direct",
+        "7-conclusion-and-future-direct-paragraph-1",
+        "7-conclusion-and-future-direct-paragraph-2",
+        "7-conclusion-and-future-direct-paragraph-3",
+        "7-conclusion-and-future-direct-paragraph-4",
+        "heading-2-references",
+        "references-list-1"
+      ]
+    }
+  ],
+  "estimatedTotalTime": 64,
+  "generatedAt": "2025-10-09T05:22:13.145Z"
+}
