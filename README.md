@@ -1,11 +1,14 @@
-# GamifiedLM
+# GamifiedLM: Co-Designing an LLM-Driven Gamified Learning App with University Students to Mitigate Learning Difficulties
 
-**Co-Designing an LLM-Driven Gamified Learning App with University Students to Mitigate Learning Difficulties**
+Kaiyuan Tang¹, Kerui Chen¹, Shreya Gopi², Li Xie², Mark Quinlan¹, and Youngjun Cho¹
 
-Kaiyuan Tang¹, Kerui Chen¹, Shreya Gopi², Li Xie², Mark Quinlan¹, Youngjun Cho¹
+
 ¹ *University College London*  ·  ² *Nanyang Technological University*
 
 ACM DIS '26 · [10.1145/3800645.3812916](https://doi.org/10.1145/3800645.3812916)
+
+
+> **Honourable Mention award received**
 
 ---
 
